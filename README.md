@@ -26,7 +26,9 @@ AI-assisted optimal rerouting (cost-based)
 
 Explainable decision logic
 
-App runs on VS Code
+App runs on VS Code, alternatively please use the link attached 
+
+https://smart-green-corridor-e72202d4.base44.app/
 
 Team Members: 
 Buvana M 
